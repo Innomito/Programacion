@@ -1,0 +1,7 @@
+b = float(input())
+
+h = float(input())
+
+a = (b*h)/2
+
+print (a)
